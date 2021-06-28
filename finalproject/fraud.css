@@ -1,0 +1,46 @@
+body
+{   
+    background-image: url("img/ps5.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-right:20px;
+    background-attachment: auto;
+}  
+
+.bonusbox
+{
+    background-image:url("img/bonusbox.png");
+    background-repeat: no-repeat;
+    background-size: 100px 100px;
+    margin-left: auto;
+}
+.size
+{
+    height:500px;
+    width:500px;
+    
+      
+}
+.buttonq 
+{
+    background-image:url("img/bonusbox2.png");
+    height:200px;
+    width:200px;
+    border-radius: 8px;
+    border: 2px white;
+    cursor: pointer;
+    margin-left: 540px;
+
+}
+.gallery 
+{   width:500px;
+    height:500px;
+    
+    margin-left: 20px;
+    
+
+}
+.form{
+    margin-left: 550px;
+}
+  
