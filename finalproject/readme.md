@@ -3,3 +3,4 @@
 技術：在網頁模板方面只使用簡單的語法，而在函式庫的方面我選擇使用MyScriptJS。MyScriptJS是MyScript 瀏覽器技術的核心。它是一個圖形庫，可以在任何 Web 應用程序中更輕鬆地集成手寫識別和交互式墨水。它顯示一個捕獲和一個基於 SVG 的渲染區域。它也負責與服務器的通信。
 特色、亮點：利用有極大名氣的ps5來搜集大家得資料，雖然說好像有點違法但是主要是要讓大家體驗一下一些比較需要思考的問題來活絡一下頭腦
 影片：https://drive.google.com/file/d/141UYOXwB1FodWApc4shtCD29b1kGMOcz/view?usp=sharing
+連結：https://wangchihua.github.io/finalproject/
